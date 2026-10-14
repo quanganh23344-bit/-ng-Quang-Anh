@@ -1,0 +1,7 @@
+{
+  "name": "Tra Cứu Điểm Chuẩn Lớp 10 THPT (2023 - 2026)",
+  "description": "Cổng tra cứu điểm chuẩn tuyển sinh vào lớp 10 các trường THPT toàn quốc từ năm 2023 đến 2026, biểu đồ xu hướng, công cụ tính điểm và tư vấn chọn nguyện vọng thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
